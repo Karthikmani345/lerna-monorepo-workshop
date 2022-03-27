@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.1-beta.0](https://github.com/Karthikmani345/lerna-monorepo/compare/@lerna-monorepo/date-logic@3.2.0-beta.1...@lerna-monorepo/date-logic@3.2.1-beta.0) (2022-03-27)
+
+**Note:** Version bump only for package @lerna-monorepo/date-logic
+
+
+
+
+
 # [3.2.0](https://github.com/Karthikmani345/lerna-monorepo/compare/@lerna-monorepo/date-logic@3.2.0-beta.1...@lerna-monorepo/date-logic@3.2.0) (2022-03-27)
 
 **Note:** Version bump only for package @lerna-monorepo/date-logic
