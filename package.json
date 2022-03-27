@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Karthikmani345/lerna-monorepo.git"
   },
-  "author": "Xavier Canchal",
+  "author": "Kartik Mani",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Karthikmani345/lerna-monorepo/issues"

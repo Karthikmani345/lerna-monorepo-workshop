@@ -1,5 +1,5 @@
-const getDate = require('@xcanchal/date-logic');
+// const getDate = require('@xcanchal/date-logic');
 
 (() => {
-  console.log(`Date: ${getDate()}`);
+  console.log(`Date: ${Date.now().toString()}`);
 })();
