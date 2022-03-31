@@ -13,5 +13,6 @@ module.exports = function getDate(
 
 function name() {
   console.log('name');
+  
 }
 
