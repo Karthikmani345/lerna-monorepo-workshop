@@ -1,21 +1,33 @@
 {
-  "name": "monorepo",
+  "name": "lerna-monorepo-workshop",
   "version": "1.0.0",
-  "description": "A repository with multiple packages",
+  "description": "This repository is an interactive guide for managing monorepos with Lerna, covering package management, independent versioning, and release strategies.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Karthikmani345/lerna-monorepo.git"
+    "url": "git+https://github.com/Karthikmani345/lerna-monorepo-workshop.git"
   },
-  "author": "Kartik Mani",
+  "keywords": [
+    "lerna",
+    "monorepo",
+    "versioning",
+    "changelog",
+    "release-management",
+    "workshop",
+    "npm",
+    "nodejs",
+    "javascript",
+    "packages"
+  ],
+  "author": "karthikmani345@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Karthikmani345/lerna-monorepo/issues"
+    "url": "https://github.com/Karthikmani345/lerna-monorepo-workshop/issues"
   },
-  "homepage": "https://github.com/Karthikmani345/lerna-monorepo#readme",
+  "homepage": "https://github.com/Karthikmani345/lerna-monorepo-workshop#readme",
   "dependencies": {
     "lerna": "^4.0.0"
   }
