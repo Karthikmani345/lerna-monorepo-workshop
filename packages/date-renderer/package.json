@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/Karthikmani345/lerna-monorepo",
   "publishConfig": {
-    "@xcanchal:registry": "https://npm.pkg.github.com/xcanchal"
+    "@username:registry": "https://npm.pkg.github.com/@username"
   },
   "scripts": {
     "test": "echo TESTS PASSED"
